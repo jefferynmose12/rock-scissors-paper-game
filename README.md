@@ -1,4 +1,4 @@
-This game web app was created using React.js and tailwind.
+This game web app was created using React.js and tailwind and also responsive.
 It's a Rock Paper Scissors web app game. Having lot of features and also an AI feature.
 It checks if what you pick is the same with the house pick or different.
 With that it tells you if you win or not.
